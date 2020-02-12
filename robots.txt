@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iathiemoh.szlovak-szekhely.hu/sitemap.xml
